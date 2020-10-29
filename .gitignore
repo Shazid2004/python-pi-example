@@ -1,0 +1,12 @@
+.idea
+.idea/inspectionProfiles
+.idea/misc.xml
+.idea/modules.xml
+.idea/pi.iml
+.idea/workspace.xml
+venv
+venv/bin
+venv/include
+venv/lib
+venv/lib64
+venv/pyvenv.cfg
